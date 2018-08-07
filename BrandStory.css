@@ -1,0 +1,79 @@
+body{
+	background-color:#e6ded2;
+}
+.gallery{
+      font-family:"Perpetua Titling MT","RomanT",monospace;
+      text-align:center;
+	  padding:0.5vw 0;
+	  margin:1vw 35vw;
+}
+
+.gallery h1{
+	font-family:GyeonggiTitleV;
+	color:#474f74;
+	font-size:2.3vw;
+	padding:2vw 0 0 0;
+}
+.gallery>hr{
+	margin:0.5vw;
+}
+
+.gallery>p{
+	margin:1vw;
+	font-size:1.1vw;
+	font-family:"DotumChe";
+}
+section{padding:5vw 0;}
+
+.play iframe{
+	width:45vw;
+	height:25vw;
+	box-shadow:0px 0px 10px #645644;
+}
+.play{text-align:center;}
+
+
+#images{
+	width:58vw;
+	height:auto;
+	margin:3vw auto;
+	background-color:white;
+	position:relative;
+	padding:1vw 0;
+	
+}
+#images>p{
+	font-size:1.5vw;
+	text-align:center;
+	padding:0 0 2.5vw 0 ;
+	font-family:"GyeonggiTitle";
+	
+}
+#img_box nav{
+	width:55vw;
+	margin:0 auto;
+	height:auto;
+	text-align:center;
+	
+}
+#img_box ul li{
+	display:inline-block;
+    margin:0 1vw;
+	list-style:none;
+
+	
+	
+}
+#img_box nav ul li a{
+	color:#000;
+	text-decoration:none;
+	
+	
+}
+#img_box nav ul li a div{
+	font-size:13px;
+	text-align:center;
+	margin:0.5vw 0;
+	
+}
+

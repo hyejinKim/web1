@@ -1,0 +1,72 @@
+body{background-color:#f9f5f0;}
+
+
+#menu{
+    
+    position:relative;
+    width:100%;
+    height:auto;
+    margin:0 auto;
+    
+}
+
+  .bread{
+      font-size:2vw;
+      font-family:"Perpetua Titling MT","RomanT",monospace;
+      text-align:center;
+      border:1px solid black;
+     padding:0.5vw 0;
+      margin:5vw 43vw;
+}
+.img{
+    background:#fff;
+    height:auto;
+    width:80%;
+    margin:3vw auto;   
+}
+.img_box{
+
+    width:75vw;
+    margin:0 auto;
+    height:auto;
+    
+}
+.img_box:after{
+    content:'';
+    display: block;
+    clear: both;
+    
+}
+section{padding:5vw 0;}
+
+
+
+.menu_box{
+        
+        width:25vw;
+        text-align:center;
+        float:left;
+        height:23vw;
+        
+    
+}
+.menu_box img{
+  width:65%;
+}
+.menu_box p:nth-of-type(1){
+    font-size:1.3vw;
+	margin:0.5vw 0;
+    color:#545454;
+}
+.menu_box p:nth-of-type(2){
+    font-size:0.8vw;
+
+    color:#424242;
+}
+
+
+
+hr{width:16vw;
+    margin:1vw auto;
+
+    }
